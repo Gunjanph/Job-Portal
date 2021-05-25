@@ -1,0 +1,21 @@
+.recuiter {
+    display: none;
+}
+.common {
+    display : none;
+}
+.applicant {
+    display: none;
+}
+
+#ed-2 {
+    display: none;
+}
+
+#ed-3 {
+    display: none;
+}
+
+.back :hover {
+    color: black;
+}

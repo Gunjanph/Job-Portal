@@ -1,0 +1,16 @@
+.navbar-nav {
+    height: 200px;
+    position: relative;
+  }
+  
+  .navbar-item {
+    margin: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .navbar-item :hover {
+    color: white;
+  }
